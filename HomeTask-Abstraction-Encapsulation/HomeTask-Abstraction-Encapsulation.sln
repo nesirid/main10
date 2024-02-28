@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeTask-Abstraction-Encapsulation", "HomeTask-Abstraction-Encapsulation\HomeTask-Abstraction-Encapsulation.csproj", "{7490C70F-D92D-4125-A0CF-8AEEBF98407E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7490C70F-D92D-4125-A0CF-8AEEBF98407E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7490C70F-D92D-4125-A0CF-8AEEBF98407E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7490C70F-D92D-4125-A0CF-8AEEBF98407E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7490C70F-D92D-4125-A0CF-8AEEBF98407E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA64DD1F-63D9-4DFD-963C-7B2A12033C2F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\bin\Debug\net6.0\Work-Encapsulation-Abstraction.exe
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\bin\Debug\net6.0\Work-Encapsulation-Abstraction.deps.json
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\bin\Debug\net6.0\Work-Encapsulation-Abstraction.runtimeconfig.json
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\bin\Debug\net6.0\Work-Encapsulation-Abstraction.dll
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\bin\Debug\net6.0\Work-Encapsulation-Abstraction.pdb
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\Work-Encapsulation-Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\Work-Encapsulation-Abstraction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\Work-Encapsulation-Abstraction.AssemblyInfo.cs
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\Work-Encapsulation-Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\Work-Encapsulation-Abstraction.dll
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\refint\Work-Encapsulation-Abstraction.dll
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\Work-Encapsulation-Abstraction.pdb
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\Work-Encapsulation-Abstraction.genruntimeconfig.cache
+C:\Users\user\Desktop\CodeTask\HomeWork-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\Work-Encapsulation-Abstraction\obj\Debug\net6.0\ref\Work-Encapsulation-Abstraction.dll
